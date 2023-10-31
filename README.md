@@ -9,7 +9,6 @@ This is a simple Android application for currency conversion. It allows you to c
 - Usage
 - Customization
 - Contributing
-- License
 
  Prerequisites
 
@@ -73,9 +72,7 @@ If you would like to contribute to this project, please follow these steps:
 
 5. Create a pull request on the original repository explaining your changes and why they should be merged.
 
- License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to use and modify this project for your own use, and if you have any questions or suggestions, please don't hesitate to reach out.
 
